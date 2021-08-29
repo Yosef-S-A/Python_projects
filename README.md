@@ -28,3 +28,11 @@ project 2: interactive fiction games that demonstrates conditional statements
 Concepts covered: Python random module, lists, for loops, range
 project 1: rock paper scissors game 
 project 2: Secure password generator
+
+# [Day 4: Aug 28, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x04)
+
+```
+Concepts covered: function defination, 
+```
+
+***Project 1***: [Reeborg's world](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json) maze challenge
