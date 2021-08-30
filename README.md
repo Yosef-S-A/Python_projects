@@ -1,6 +1,6 @@
 # 100-days-of-code
 
-This my 100daysofcode challenge based on Angela Yu's 100 days of code in Python course.
+This is my #100daysofcode challenge based on Angela Yu's 100 days of code in Python course.
 
 In each day challenge, you can find a project that covers all concepts done that day.
 
@@ -36,5 +36,6 @@ project 2: Secure password generator
 Concepts covered: function defination, import, loops
 ```
 **Project 1**: [Reeborg's world](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json) maze challenge
+
 **Project 2**: Hangman game
 
