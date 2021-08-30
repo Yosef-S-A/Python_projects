@@ -10,25 +10,28 @@ Please feel free to point out andy mistake and suggetsions.
 
 ```
 Concepts covered: printing, string concatination, commenting, debugging, variables and input
-Project: band name generator based on user inputs
 ```
+**Project**: band name generator based on user inputs
+
 
 # [Day 2: AUG 25, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x02)
 
 ```
 Concepts covered: Data Types, Numbers, Operations, Type Conversion, f-Strings, conditional Statements, logical operators, code blocs and scope
-
-project 1: tip calculator based on user inputs about tip percentage, number of people and total cost 
-project 2: interactive fiction games that demonstrates conditional statements
 ```
+
+**Project 1**: tip calculator based on user inputs about tip percentage, number of people and total cost 
+**Project 2**: interactive fiction games that demonstrates conditional statements
+
 
 # [Day 3: Aug 26, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x03)
 
 ```
 Concepts covered: Python random module, lists, for loops, range
-project 1: rock paper scissors game 
-project 2: Secure password generator
 ```
+**Project 1**: rock paper scissors game 
+**Project 2**: Secure password generator
+
 
 # [Day 4: Aug 28, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x04)
 
@@ -39,3 +42,10 @@ Concepts covered: function defination, import, loops
 
 **Project 2**: Hangman game
 
+# [Day 5: Aug 30, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x05)
+
+```
+Concepts covered: functions with inputs, dictionaries and nesting
+```
+**Project 1**: Caesar Cipher
+**Project 2**: Secret Auction 
