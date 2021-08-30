@@ -48,4 +48,5 @@ Concepts covered: function defination, import, loops
 Concepts covered: functions with inputs, dictionaries and nesting
 ```
 **Project 1**: Caesar Cipher
+
 **Project 2**: Secret Auction 
