@@ -50,3 +50,11 @@ Concepts covered: functions with inputs, dictionaries and nesting
 **Project 1**: Caesar Cipher
 
 **Project 2**: Secret Auction 
+
+
+# [Day 6: Aug 31, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x06)
+
+```
+Concepts covered: functions and return
+```
+**Project 1**: Calculator
