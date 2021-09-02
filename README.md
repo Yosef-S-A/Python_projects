@@ -58,3 +58,6 @@ Concepts covered: functions with inputs, dictionaries and nesting
 Concepts covered: functions and return
 ```
 **Project 1**: Calculator
+**First Capstone Project**: Blackjack Game
+
+	+ simplified Blackjack game: no splits
