@@ -61,4 +61,12 @@ Concepts covered: functions and return
 
 **First Capstone Project**: Blackjack Game
 
-	+ simplified Blackjack game: no splits
+	* simplified Blackjack game: no splits
+
+# [Day 7, Sep2, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x07)
+
+```
+Concepts covered: local and global scope, debugging
+```
+
+**Project 1**: Number guessing game 
