@@ -31,6 +31,7 @@ Concepts covered: Data Types, Numbers, Operations, Type Conversion, f-Strings, c
 Concepts covered: Python random module, lists, for loops, range
 ```
 **Project 1**: rock paper scissors game 
+
 **Project 2**: Secure password generator
 
 
