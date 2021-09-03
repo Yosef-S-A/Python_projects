@@ -21,6 +21,7 @@ Concepts covered: Data Types, Numbers, Operations, Type Conversion, f-Strings, c
 ```
 
 **Project 1**: tip calculator based on user inputs about tip percentage, number of people and total cost 
+
 **Project 2**: interactive fiction games that demonstrates conditional statements
 
 
