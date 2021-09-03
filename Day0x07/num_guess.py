@@ -9,6 +9,7 @@ EASY_LEVEL_TURNS = 10
 HARD_LEVEL_TURNS = 5
 
 def compare():
+	'''function that checks if user input is correct or not'''
 	global lives
 	while lives != 0:
 		print ("You have {} attempts remaining to guess the number".format(lives))
@@ -25,6 +26,7 @@ def compare():
 		print ("You've run out of guesses, you lose.")
 
 def choose_level():
+	'''function that sets the player turn based on the chosen game level'''
 	global lives
 	level_choice = input("Choose a difficulty. Type 'easy' or 'hard': ")
 	if level_choice == 'easy':
@@ -33,7 +35,8 @@ def choose_level():
 		lives = HARD_LEVEL_TURNS
 
 def play():
-	print("Psst, the correct anwer is {}".format(rand_num))
+	'''function that activates game play'''
+	#print("Psst, the correct anwer is {}".format(rand_num))
 	choose_level()
 	compare()
 
