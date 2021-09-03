@@ -71,4 +71,12 @@ Concepts covered: functions and return
 Concepts covered: local and global scope, debugging
 ```
 
-**Project 1**: Number guessing game 
+**Project 1**: Number guessing game
+
+# [Day 8, Sep 3, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x08)
+
+**Project 1**: Higher-Lower game
+
+* Inspired from the game [The Higher Lower Game](http://www.higherlowergame.com/)
+
+ 
