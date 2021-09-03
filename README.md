@@ -8,17 +8,33 @@ Please feel free to point out andy mistake and suggetsions.
 
 # [DAY 1: AUG 24, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x01)
 
-```
-Concepts covered: printing, string concatination, commenting, debugging, variables and input
-```
+
+**Concepts covered**:
+
++ Printing
++ String concatination
++ Commenting
++ Debugging
++ variables
++ Input
+
 **Project**: band name generator based on user inputs
 
 
 # [Day 2: AUG 25, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x02)
 
-```
-Concepts covered: Data Types, Numbers, Operations, Type Conversion, f-Strings, conditional Statements, logical operators, code blocs and scope
-```
+
+**Concepts covered**:
+
++ Data Types
++ Numbers
++ Operations
++ Type Conversion
++ f-Strings
++ conditional Statements
++ logical operators
++ code blocs and scope
+
 
 **Project 1**: tip calculator based on user inputs about tip percentage, number of people and total cost 
 
@@ -27,9 +43,14 @@ Concepts covered: Data Types, Numbers, Operations, Type Conversion, f-Strings, c
 
 # [Day 3: Aug 26, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x03)
 
-```
-Concepts covered: Python random module, lists, for loops, range
-```
+
+**Concepts covered**:
+
++ Python random module
++ lists
++ for loops
++ range
+
 **Project 1**: rock paper scissors game 
 
 **Project 2**: Secure password generator
@@ -37,18 +58,25 @@ Concepts covered: Python random module, lists, for loops, range
 
 # [Day 4: Aug 28, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x04)
 
-```
-Concepts covered: function defination, import, loops
-```
+
+**Concepts covered**:
+
++ function defination
++ import 
++ loops
+
 **Project 1**: [Reeborg's world](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json) maze challenge
 
 **Project 2**: Hangman game
 
 # [Day 5: Aug 30, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x05)
 
-```
-Concepts covered: functions with inputs, dictionaries and nesting
-```
+
+**Concepts covered**:
+
++ functions with inputs
++ dictionaries and nesting
+
 **Project 1**: Caesar Cipher
 
 **Project 2**: Secret Auction 
@@ -56,9 +84,11 @@ Concepts covered: functions with inputs, dictionaries and nesting
 
 # [Day 6: Aug 31, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x06)
 
-```
-Concepts covered: functions and return
-```
+
+**Concepts covered**:
+
++ functions and return
+
 **Project 1**: Calculator
 
 **First Capstone Project**: Blackjack Game
@@ -67,9 +97,10 @@ Concepts covered: functions and return
 
 # [Day 7, Sep 2, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x07)
 
-```
-Concepts covered: local and global scope, debugging
-```
+
+**Concepts covered**: 
+* local and global scope
+* debugging
 
 **Project 1**: Number guessing game
 
