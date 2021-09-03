@@ -93,14 +93,14 @@ Please feel free to point out andy mistake and suggetsions.
 
 **First Capstone Project**: Blackjack Game
 
-* simplified Blackjack game: no splits
++ simplified Blackjack game: no splits
 
 # [Day 7, Sep 2, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x07)
 
 
 **Concepts covered**: 
-* local and global scope
-* debugging
++ local and global scope
++ debugging
 
 **Project 1**: Number guessing game
 
@@ -108,6 +108,6 @@ Please feel free to point out andy mistake and suggetsions.
 
 **Project 1**: Higher-Lower game
 
-* Inspired from the game [The Higher Lower Game](http://www.higherlowergame.com/)
++ Inspired from the game [The Higher Lower Game](http://www.higherlowergame.com/)
 
  
