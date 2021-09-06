@@ -17,6 +17,7 @@ milk = 200  # in milliliter
 coffee = 100  # in grams
 money = 0.0  # in dollars
 
+
 def get_stat():
     print("Water: {}".format(water))
     print("Milk: {}".format(milk))
@@ -33,15 +34,17 @@ def make_esp():
     if water >= 50:
         water -= 50
     else:
-        print("Not enough resource")
-
+        print("Not enough water")
+        return False
     if coffee >= 18:
         coffee -= 18
     else:
-        print("Not enough resource")
+        print("Not enough coffee")
+        return False
 
     price = 1.50
     money += price
+    return True
 
 
 def make_cap():
@@ -49,20 +52,23 @@ def make_cap():
     if water >= 250:
         water -= 250
     else:
-        print("Not enough resource")
+        print("Not enough water")
+        return False
 
     if milk >= 100:
         milk -= 100
     else:
-        print("Not enough resource")
-    
+        print("Not enough milk")
+        return False
     if coffee >= 24:
-         coffee -= 24
+        coffee -= 24
     else:
-        print("Not enough resource")
+        print("Not enough coffee")
+        return False
 
     price = 3.0
     money += price
+    return True
 
 
 def make_latte():
@@ -70,20 +76,24 @@ def make_latte():
     if water >= 200:
         water -= 200
     else:
-        print("Not enough resource")
+        print("Not enough water")
+        return False
 
     if milk >= 150:
         milk -= 150
     else:
-        print("Not enough resource")
+        print("Not enough milk")
+        return False
 
     if coffee >= 24:
         coffee -= 24
     else:
-        print("Not enough resource")
+        print("Not enough coffee")
+        return False
 
     price = 2.5
     money += price
+    return True
 
 
 def get_change():
@@ -93,10 +103,10 @@ def get_change():
     penny = int(input("How many pennies?: "))
     total = (quarter * 0.25) + (dime * 0.10) + (nickel * 0.05) + (penny * 0.01)
     if total >= price:
-        return "This is your change: {0:.2f}".format(total - money)
+        return "This is your change: {0:.2f}".format(total - price)
     else:
         return "Not enough money"
-    
+
 
 def operation():
     global money
@@ -105,20 +115,26 @@ def operation():
         choice = input(
             "What would you like? (espresso/latte/cappuccino): ").lower()
         if choice == 'espresso':
-            make_esp()
-            change = get_change()
-            print(change)
-            print("Here is your {}. Enjoy!".format(choice))
+            if make_esp():
+                change = get_change()
+                print(change)
+                print("Here is your {}. Enjoy!".format(choice))
+            else:
+                accept_order = switch_off()
         elif choice == 'latte':
-            make_latte()
-            change = get_change()
-            print(change)
-            print("Here is your {}. Enjoy!".format(choice))
+            if make_latte():
+                change = get_change()
+                print(change)
+                print("Here is your {}. Enjoy!".format(choice))
+            else:
+                accept_order = switch_off()
         elif choice == 'cappuccino':
-            make_cap()
-            change = get_change()
-            print(change)
-            print("Here is your {}. Enjoy!".format(choice))
+            if make_cap():
+                change = get_change()
+                print(change)
+                print("Here is your {}. Enjoy!".format(choice))
+            else:
+                accept_order = switch_off()
         elif choice == 'report':
             get_stat()
         elif choice == 'off':
