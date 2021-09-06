@@ -110,4 +110,17 @@ Please feel free to point out andy mistake and suggetsions.
 
 + Inspired from the game [The Higher Lower Game](http://www.higherlowergame.com/)
 
- 
+**Project 2**: Virtual coffee machine
+
++ Implement a coffee machine using python. The machine:
+
+	+ Accepts orders
+
+	+ Accepts coins and calculate change
+
+	+ Checks for resources
+
+	+ Report remaining resources and profit using ```report``` command
+
+	+ Switches off using ```off``` command
+
