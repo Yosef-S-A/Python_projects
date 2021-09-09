@@ -112,7 +112,7 @@ Please feel free to point out andy mistake and suggetsions.
 
 **Project 2**: Virtual coffee machine
 
-+ Implement a coffee machine using python. The machine:
++ Implement a coffee machine using Python. The machine:
 
 	+ Accepts orders
 
@@ -123,4 +123,15 @@ Please feel free to point out andy mistake and suggetsions.
 	+ Report remaining resources and profit using ```report``` command
 
 	+ Switches off using ```off``` command
+
+# [Day 9, sep 5, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x09)
+
+**Project 1**: Virtual Coffee Machine
+
++ Implement a coffee machine using object oriented programming in Python
+
+**Project 2**: Quiz game
+
++ OOP implementation of a quiz game
+
 
