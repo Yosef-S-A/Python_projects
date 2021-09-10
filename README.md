@@ -124,7 +124,7 @@ Please feel free to point out andy mistake and suggetsions.
 
 	+ Switches off using ```off``` command
 
-# [Day 9, sep 5, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x09)
+# [Day 9, Sep 5, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x09)
 
 **Project 1**: Virtual Coffee Machine
 
@@ -133,5 +133,11 @@ Please feel free to point out andy mistake and suggetsions.
 **Project 2**: Quiz game
 
 + OOP implementation of a quiz game
+
+# [Day 10, Sep 9, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x10)
+
+**Project 1**: Spot Painting (inspired by Damien Hirst)
+
+**Project 2**: Spirograph with randomly generated colors
 
 
