@@ -140,4 +140,17 @@ Please feel free to point out andy mistake and suggetsions.
 
 **Project 2**: Spirograph with randomly generated colors
 
+# [Day 11, Sep 10, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x11) 
+
+**Project 1**: Sketch Pad
+
+**Project 2**: Turtle Race Game (Sep 12, 2021)
+
+# [Day 12, sep 14, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x12)
+
+**Project 1**: Snake Game
+
+
+
+
 
