@@ -6,7 +6,7 @@ In each day challenge, you can find a project that covers all concepts done that
 
 Please feel free to point out andy mistake and suggetsions.
 
-# [DAY 1: AUG 24, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x01)
+# [DAY 1](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x01)
 
 
 **Concepts covered**:
@@ -21,7 +21,7 @@ Please feel free to point out andy mistake and suggetsions.
 **Project**: band name generator based on user inputs
 
 
-# [Day 2: AUG 25, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x02)
+# [Day 2](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x02)
 
 
 **Concepts covered**:
@@ -41,7 +41,7 @@ Please feel free to point out andy mistake and suggetsions.
 **Project 2**: interactive fiction games that demonstrates conditional statements
 
 
-# [Day 3: Aug 26, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x03)
+# [Day 3](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x03)
 
 
 **Concepts covered**:
@@ -56,7 +56,7 @@ Please feel free to point out andy mistake and suggetsions.
 **Project 2**: Secure password generator
 
 
-# [Day 4: Aug 28, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x04)
+# [Day 4](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x04)
 
 
 **Concepts covered**:
@@ -69,7 +69,7 @@ Please feel free to point out andy mistake and suggetsions.
 
 **Project 2**: Hangman game
 
-# [Day 5: Aug 30, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x05)
+# [Day 5](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x05)
 
 
 **Concepts covered**:
@@ -82,7 +82,7 @@ Please feel free to point out andy mistake and suggetsions.
 **Project 2**: Secret Auction 
 
 
-# [Day 6: Aug 31, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x06)
+# [Day 6](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x06)
 
 
 **Concepts covered**:
@@ -95,7 +95,7 @@ Please feel free to point out andy mistake and suggetsions.
 
 + simplified Blackjack game: no splits
 
-# [Day 7, Sep 2, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x07)
+# [Day 7](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x07)
 
 
 **Concepts covered**: 
@@ -104,7 +104,7 @@ Please feel free to point out andy mistake and suggetsions.
 
 **Project 1**: Number guessing game
 
-# [Day 8, Sep 3, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x08)
+# [Day 8](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x08)
 
 **Project 1**: Higher-Lower game
 
@@ -124,7 +124,7 @@ Please feel free to point out andy mistake and suggetsions.
 
 	+ Switches off using ```off``` command
 
-# [Day 9, Sep 5, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x09)
+# [Day 9](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x09)
 
 **Project 1**: Virtual Coffee Machine
 
@@ -134,19 +134,19 @@ Please feel free to point out andy mistake and suggetsions.
 
 + OOP implementation of a quiz game
 
-# [Day 10, Sep 9, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x10)
+# [Day 10](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x10)
 
 **Project 1**: Spot Painting (inspired by Damien Hirst)
 
 **Project 2**: Spirograph with randomly generated colors
 
-# [Day 11, Sep 10, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x11) 
+# [Day 11](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x11) 
 
 **Project 1**: Sketch Pad
 
 **Project 2**: Turtle Race Game (Sep 12, 2021)
 
-# [Day 12, sep 14, 2021](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x12)
+# [Day 12](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x12)
 
 **Project 1**: Snake Game
 
