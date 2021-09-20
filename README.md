@@ -146,11 +146,6 @@ Please feel free to point out andy mistake and suggetsions.
 
 **Project 2**: Turtle Race Game (Sep 12, 2021)
 
-# [Day 12](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x12)
+# [Day 12 and 13](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x12)
 
 **Project 1**: Snake Game
-
-
-
-
-
