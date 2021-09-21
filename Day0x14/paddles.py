@@ -29,7 +29,3 @@ class Paddle(Turtle):
         if self.ycor() >= -200:
             new_y = self.ycor() - 50
             self.goto(self.xcor(), new_y)
-
-    def auto_move(self):
-        pass
-
