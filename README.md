@@ -144,7 +144,7 @@ Please feel free to point out andy mistake and suggetsions.
 
 **Project 1**: Sketch Pad
 
-**Project 2**: Turtle Race Game (Sep 12, 2021)
+**Project 2**: Turtle Race Game
 
 # [Day 12 and 13](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x12_and_13)
 
