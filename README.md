@@ -161,6 +161,6 @@ Please feel free to point out andy mistake and suggetsions.
 # [Day 16](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x16)
 **Project 1**: Snake Game update
 
-	* Storing High Scores
+	+ Storing High Scores
 
 **Project 2**: Mail Merge Automation
