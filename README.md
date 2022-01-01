@@ -164,3 +164,9 @@ Please feel free to point out andy mistake and suggetsions.
 + Storing High Scores
 
 **Project 2**: Mail Merge Automation
+
+
+# [Day 17](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x17)
+**Project 1**: US states guessing game
+
+**Project 2**: NATO alphabet encoder
