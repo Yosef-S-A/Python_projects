@@ -170,3 +170,15 @@ Please feel free to point out andy mistake and suggetsions.
 **Project 1**: US states guessing game
 
 **Project 2**: NATO alphabet encoder
+
+# [Day 18](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x18)
+**Project 1**: Mile to Kilometer and vice versa converter
+
+![Mile_to_Km_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/78106133/147849838-52f9d8d5-b681-4444-acc8-1dde0b337f78.gif)
+
+
+
+
+
+
+
