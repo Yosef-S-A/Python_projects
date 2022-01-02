@@ -176,6 +176,9 @@ Please feel free to point out andy mistake and suggetsions.
 
 ![Mile_to_Km_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/78106133/147849838-52f9d8d5-b681-4444-acc8-1dde0b337f78.gif)
 
+**Project 2**: Pomodoro Timer
+
+![Pomodoro_timer_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/78106133/147867966-c7e3cf6f-2d40-4951-a95d-91660c6e695b.gif)
 
 
 
