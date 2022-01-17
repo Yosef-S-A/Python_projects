@@ -1,4 +1,4 @@
-# 100-days-of-code
+# Python Projects
 
 This is my #100daysofcode challenge based on Angela Yu's 100 days of code in Python course.
 
