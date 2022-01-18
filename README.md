@@ -186,5 +186,6 @@ Please feel free to point out andy mistake and suggetsions.
 
 ![Password_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/78106133/147873051-b816f6f1-96df-4df6-b8d4-09f2c82b9f41.gif)
 
-
-
+# [Day 20](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x20)
+**Project 1**: Birthday wisher
++ This project uses the **smtp module**, the **pandas module** and the **datetime module** to send a birthday wish email
