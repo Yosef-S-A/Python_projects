@@ -189,3 +189,16 @@ Please feel free to point out andy mistake and suggetsions.
 # [Day 20](https://github.com/Yosef-S-A/100-days-of-code/tree/main/Day0x20)
 **Project 1**: Birthday wisher
 + This project uses the **smtp module**, the **pandas module** and the **datetime module** to send a birthday wish email
+
+**Project 2**: Flash Card Application
++ This project uses the **pandas module** to implement a flash card application.
+	+ The car flips after three seconds
+	+ The Correct button places the word or phrase into a is known csv file
+	+ The Wrong button places the word or phrase into a still to learn csv file
+	+ The Reset button deletes the known words file and creates a new to learn file containging all words
+** Cover concepts **: Panda, file, exceptions, Tkinter
+
+![Flash_card_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/78106133/157009634-0e782564-cf39-487b-b365-820078b433d2.gif)
+
+
+
